@@ -43,4 +43,6 @@ python3 -m unittest discover -s tests -v
 python3 smoke_test.py
 ```
 
-ライセンスは公開承認時に確定予定です。
+## ライセンス
+
+[MIT License](LICENSE)。改変・再配布・商用利用が可能です。著作権表示とライセンス文を残してください。
