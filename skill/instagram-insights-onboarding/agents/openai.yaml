@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagramデータ収集セットアップ"
+  short_description: "プロ化・Meta連携・スプシへの自動収集開始まで伴走します"
+  default_prompt: "Use $instagram-insights-onboarding to guide me through Instagram insights collection setup."

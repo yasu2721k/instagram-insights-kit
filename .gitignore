@@ -1,0 +1,15 @@
+.env*
+!.env.example
+.venv/
+credentials.json
+token.json
+data/
+logs/
+.instagram-insights-onboarding.json
+__pycache__/
+*.pyc
+*credentials*.json
+*token*.json
+*.pem
+.DS_Store
+*.zip
